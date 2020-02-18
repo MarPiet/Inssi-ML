@@ -1,0 +1,21 @@
+Brain name,Time to update policy,Time since start of training,Time for last experience collection,Number of experiences used for training,Mean return
+SmallWallJumpLearning,0.691,9.153,5.511,2129,-1.057
+SmallWallJumpLearning,0.253,16.779,5.507,2100,-1.076
+SmallWallJumpLearning,0.266,21.590,3.586,2129,-1.078
+SmallWallJumpLearning,0.244,26.109,3.148,2122,-1.098
+SmallWallJumpLearning,0.249,31.684,3.997,2071,-1.087
+SmallWallJumpLearning,0.255,40.429,6.170,2133,-1.100
+SmallWallJumpLearning,0.248,49.327,6.376,2164,-1.088
+SmallWallJumpLearning,0.246,56.037,4.984,2119,-1.059
+SmallWallJumpLearning,0.263,63.970,5.706,2056,-1.029
+SmallWallJumpLearning,0.247,74.830,7.673,2076,-0.988
+SmallWallJumpLearning,0.249,81.433,4.651,2119,-0.924
+SmallWallJumpLearning,0.249,89.792,5.926,2096,-0.860
+SmallWallJumpLearning,0.254,99.528,7.008,2165,-0.787
+SmallWallJumpLearning,0.247,112.173,8.927,2172,-0.713
+SmallWallJumpLearning,0.250,123.428,8.006,2089,-0.650
+SmallWallJumpLearning,0.260,134.830,8.206,2087,-0.600
+SmallWallJumpLearning,0.252,146.406,8.045,2124,-0.549
+SmallWallJumpLearning,0.248,154.373,5.739,2080,-0.479
+SmallWallJumpLearning,0.246,164.166,7.005,2140,-0.429
+SmallWallJumpLearning,0.242,172.545,5.931,2056,-0.381

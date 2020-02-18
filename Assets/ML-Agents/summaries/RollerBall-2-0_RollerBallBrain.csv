@@ -1,0 +1,15 @@
+Brain name,Time to update policy,Time since start of training,Time for last experience collection,Number of experiences used for training,Mean return
+RollerBallBrain,0.202,13.041,11.008,2050,-5.328
+RollerBallBrain,0.156,23.787,9.387,2065,-5.488
+RollerBallBrain,0.177,34.721,9.537,2084,-5.510
+RollerBallBrain,0.156,45.219,9.090,2053,-5.431
+RollerBallBrain,0.157,55.469,8.906,2049,-5.443
+RollerBallBrain,0.155,65.772,8.939,2074,-5.381
+RollerBallBrain,0.159,76.058,8.926,2062,-5.399
+RollerBallBrain,0.159,86.341,8.984,2066,-5.415
+RollerBallBrain,0.158,96.551,8.886,2066,-5.437
+RollerBallBrain,0.156,106.799,8.897,2060,-5.427
+RollerBallBrain,0.154,117.111,8.969,2090,-5.435
+RollerBallBrain,0.157,127.222,8.796,2053,-5.438
+RollerBallBrain,0.157,137.420,8.891,2063,-5.485
+RollerBallBrain,0.167,147.697,8.911,2069,-5.485

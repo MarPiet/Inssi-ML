@@ -1,0 +1,2 @@
+Brain name,Time to update policy,Time since start of training,Time for last experience collection,Number of experiences used for training,Mean return
+RollerBallBrain,0.461,16.702,14.104,2093,-1.598
